@@ -1,0 +1,6 @@
+created_by: cli
+intent: install
+job_id: install-all-20250509T081519
+status: pending
+subject: chrony
+target: all

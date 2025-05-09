@@ -1,0 +1,8 @@
+hostname: "opsydianclientrhel9"
+ip: "192.168.0.187"
+mac_address: "00:27:01:21:7c:40"
+os: "RHEL9"
+environment: "PRODUCTION"
+grouping: "FRONTEND"
+username: "root"
+password: "opsydian"

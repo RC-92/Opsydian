@@ -1,0 +1,6 @@
+created_by: cli
+intent: install
+job_id: install-all-20250509T074200
+status: pending
+subject: Ansible
+target: all

@@ -1,0 +1,2 @@
+#!/bin/bash
+exec /opt/opsydian/src/cli/main.py "$@"

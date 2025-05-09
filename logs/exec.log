@@ -1,0 +1,21 @@
+2025-05-09 07:44:19 🚀 Executing job: install-all-20250509T074408.yaml
+2025-05-09 07:44:22 ✅ Success on 192.168.0.187 using /opt/opsydian/bin/install-rhel.sh: ansible
+2025-05-09 07:44:22 📦 Job moved to: /opt/opsydian/jobs/done/
+2025-05-09 07:46:57 🚀 Executing job: install-all-20250509T074653.yaml
+2025-05-09 07:46:58 ❌ Failed on 192.168.0.187 using /opt/opsydian/bin/install-rhel.sh: b'Error: There are no enabled repositories in "/etc/yum.repos.d", "/etc/yum/repos.d", "/etc/distro.repos.d".'
+2025-05-09 07:46:58 📦 Job moved to: /opt/opsydian/jobs/error/
+2025-05-09 07:58:02 🚀 Executing job: install-all-20250509T075739.yaml
+2025-05-09 07:58:03 ❌ Failed on 192.168.0.187 using /opt/opsydian/bin/install-rhel.sh: b"Warning: failed loading '/etc/yum.repos.d/centos-stream.repo', skipping.\nError: Unable to find a match"
+2025-05-09 07:58:03 📦 Job moved to: /opt/opsydian/jobs/error/
+2025-05-09 08:04:26 🚀 Executing job: install-all-20250509T080354.yaml
+2025-05-09 08:04:27 ❌ Failed on 192.168.0.187 using /opt/opsydian/bin/install-rhel.sh: b'Error: Unable to find a match'
+2025-05-09 08:04:27 📦 Job moved to: /opt/opsydian/jobs/error/
+2025-05-09 08:05:56 🚀 Executing job: install-all-20250509T080529.yaml
+2025-05-09 08:05:57 ❌ Failed on 192.168.0.187 using /opt/opsydian/bin/install-rhel.sh: b'Error: Unable to find a match'
+2025-05-09 08:05:57 📦 Job moved to: /opt/opsydian/jobs/error/
+2025-05-09 08:12:56 🚀 Executing job: install-all-20250509T081239.yaml
+2025-05-09 08:12:57 ❌ Failed on 192.168.0.187 using /opt/opsydian/bin/install-rhel.sh: b''
+2025-05-09 08:12:57 📦 Job moved to: /opt/opsydian/jobs/error/
+2025-05-09 08:15:31 🚀 Executing job: install-all-20250509T081519.yaml
+2025-05-09 08:15:32 ❌ Failed on 192.168.0.187 using /opt/opsydian/bin/install-rhel.sh: b''
+2025-05-09 08:15:32 📦 Job moved to: /opt/opsydian/jobs/error/
