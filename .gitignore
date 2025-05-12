@@ -1,0 +1,21 @@
+
+# Binary releases
+releases/
+*.bin
+opsydian-linux-*
+
+# Build artifacts
+dist/
+build/
+
+# Python
+__pycache__/
+*.pyc
+venv/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
