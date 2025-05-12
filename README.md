@@ -18,6 +18,8 @@ Opsydian is an AI-powered agent designed to automate system administrative tasks
 _Note: OS Indicated with * are still in the process of being developed, it will be available in future releases_
 
 # High-level system diagram
+![image](https://github.com/user-attachments/assets/3acb4e04-dc37-4dc2-b70c-62eee840b2a3)
+
 
 # Major Components:
 Opsydian is composed of a collection of tightly scoped components that operate together to deliver reliable automation. These components are modular and purpose-built to handle specific stages of job management. Each module is designed with simplicity, extensibility, and security in mind. Further implementation details are intentionally abstracted to protect the internal mechanics of the application.
